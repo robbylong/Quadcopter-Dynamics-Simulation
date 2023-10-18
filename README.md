@@ -8,7 +8,7 @@ This repository contains code for quadcopter control simulation. We implemented 
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="drone1_edit" alt="drone1 GIF" height="300">
+      <img src="drone1_edit.gif" alt="drone1 GIF" height="300">
     </td>
 
     </td>
