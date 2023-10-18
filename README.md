@@ -26,7 +26,7 @@ This repository contains code for quadcopter control simulation. We implemented 
       <img src="drone2_edit.gif" alt="drone2 GIF" height="300">
     </td>
       <td style="vertical-align: top;"> 
-        <img src="drone1_dynamics.png" alt="drone1 PNG" height="300">
+        <img src="drone2_dynamics.png" alt="drone1 PNG" height="300">
     </td>
   </tr>
 </table>
