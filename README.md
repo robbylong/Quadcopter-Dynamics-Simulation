@@ -30,3 +30,7 @@ This repository contains code for quadcopter control simulation. We implemented 
     </td>
   </tr>
 </table>
+
+the codes of three questions are in Question 1, Question 2, Question 3 respectively.
+In question 2, please remember to run robotcontrol_2a.m before running quadcopter_script_2b.m
+In question 3, please remember to run robotcontrol_2a.m before running quadcopter_script_3a.m or quadcopter_script_3b.m
